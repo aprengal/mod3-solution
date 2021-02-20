@@ -37,7 +37,7 @@ iframe {
 }
 
 button, a {
-	transition: color 0.5s, background 0.5s, opacity 0.5s, outline 0s, box-shadow 0.5s;
+	transition: color 0.5s, background 0.5s, opacity 0.5s, outline 0s;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -308,6 +308,7 @@ footer a:hover, footer a:focus {
 .container .jumbotron {
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
+  transition: box-shadow 0.5s;
 }
 
 #menu-tile, #specials-tile, #map-tile {
@@ -321,6 +322,7 @@ footer a:hover, footer a:focus {
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover
 #menu-tile:focus, #specials-tile:focus, #map-tile:focus {
   box-shadow: 0 1px 5px 1px #cccccc;
+  transition: box-shadow 0.5s;
 }
 
 #menu-tile {
