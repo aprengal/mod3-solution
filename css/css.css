@@ -156,7 +156,7 @@ section p {
 footer {
 	color: #fff;
 	background: #000;
-	transition: background 0.25s;
+	transition: background 0.5s;
 }
 
 footer:focus, footer:hover {
