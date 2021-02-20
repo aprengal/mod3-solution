@@ -217,11 +217,10 @@ footer a:hover, footer a:focus {
 }
 
 .m-sec .c {
-	vertical-align: top;
-}
-
-.m-sec .h4 {
-	margin: 0;
+    vertical-align: top;
+    display: inline-block;
+    padding: 0 5%;
+    width: 33%;
 }
 
 .m-sec ul, .m-sec li {
