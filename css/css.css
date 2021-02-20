@@ -246,6 +246,7 @@ footer a:hover, footer a:focus {
 		color: yellow;
 		height: 0.1rem;
 		margin-top: 2rem;
+		border: 0;
 	}
 		
 }
