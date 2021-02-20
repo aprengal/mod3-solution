@@ -6,11 +6,11 @@ html {
 	-webkit-hyphens: auto;
 	-ms-hyphens: auto;
 	hyphens: auto;
-	font-size: 100%;
 }
 
 body {
-	line-height: 2
+	line-height: 2;
+	font-size: 100%;
 }
 
 *,
