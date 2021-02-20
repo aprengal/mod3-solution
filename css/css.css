@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
-:focus {
-	outline: 0.45rem dashed #fff !important;
+:focus, a:focus {
+	outline: 0.45rem dashed #fff;
 	outline-offset: 2px;
 }
 
 .pull-left.visible-md.visible-lg:focus {
-	outline-color: red!important;
+	outline-color: red;
 }
 
 @media (min-width: 1200px) {
