@@ -43,7 +43,7 @@ button, a {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: "Expletus Sans", -apple-system, BlinkMacSystemFont, arial, sans-serif;
 	font-weight: 700;
-	margin: 0 auto;
+	margin: 0 auto 20px;
 	hyphens: none;
 	line-height: 2
 }
