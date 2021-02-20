@@ -147,6 +147,10 @@ footer {
 	margin: 0 auto;
 }
 
+.seccion {
+	padding: 5rem 0;
+}
+
 .m-sec {
 	border-bottom: 0.1rem solid yellow;
 }
@@ -193,16 +197,7 @@ footer {
 		display: inline-block
 	}
 	
-	/* Menús pé de páxina ----------------------------- */
-	.m-sec .c {
-		width: 50%;
-		padding: 4rem 2% 0;
-		display: inline-block;
-	}
 
-	.m-sec .c:first-child + .c  {
-		padding-top: 0;
-	}
 	
 }
 
@@ -215,6 +210,21 @@ footer {
 	}
 	.sec-3 {
 		display: inline-block
+	}
+	
+	/* Menús footer. The original media query on my website is 1024px */
+	.m-sec .c {
+		width: 50%;
+		padding: 4rem 2% 0;
+		display: inline-block;
+	}
+
+	.m-sec .c:first-child + .c  {
+		padding-top: 0;
+	}
+	
+	.seccion {
+	padding: 5rem 0;
 	}
 }
 
