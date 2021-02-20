@@ -135,6 +135,15 @@ footer {
 	background: #00093d;
 }
 
+footer a {
+	color: aqua;
+	font-weight: 700;
+}
+
+footer a:hover, footer a:focus {
+	color: yellow;
+}
+
 .s-l,
 .s-l ul,
 .s-l li {
