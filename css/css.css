@@ -64,7 +64,7 @@ section {
 	background: #eee;
 	padding: 3em 1em 1em;
 	margin: 4% auto;
-	width: 96%
+	width: 96%;
 }
 
 section {
@@ -203,7 +203,7 @@ footer a:hover, footer a:focus {
 	border-bottom: 0.1rem solid yellow;
 }
 
-.m-sec c {
+.m-sec .c {
 	vertical-align: top;
 }
 
