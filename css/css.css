@@ -245,7 +245,7 @@ footer a:hover, footer a:focus {
 		width: 50%;
 		background: yellow;
 		height: 2px;
-		margin-top: 2rem;
+		margin: 2rem auto;
 		border: 0;
 	}
 		
