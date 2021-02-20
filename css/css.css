@@ -161,6 +161,7 @@ footer {
 
 .copy {
 	padding: 3.5rem 0;
+	font-weight: 700;
 }
 
 /*Text for screen readers. I think we don't see this in the course, however, it's relevant nowadays*/
