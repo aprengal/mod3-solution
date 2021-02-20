@@ -155,6 +155,11 @@ section p {
 
 footer {
 	color: #fff;
+	background: #000;
+	transition: background 0.25s;
+}
+
+footer:focus, footer:hover {
 	background: #363636;
 }
 
