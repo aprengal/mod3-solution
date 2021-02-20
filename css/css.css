@@ -211,7 +211,7 @@ footer {
 	
 	/* Menús footer. The original media query on my website is 1024px */
 	.m-sec .c {
-		width: 50%;
+		width: calc(100% / 3);
 		padding: 4rem 2% 0;
 		display: inline-block;
 	}
@@ -226,16 +226,6 @@ footer {
 	
 	.copy {
 	padding: 4.3rem 0;
-	}
-}
-
-/*This media query is for extra large computer screens.*/
-
-@media ( min-width: 1440px ) {
-	
-	.m-sec .c {
-		width: 25%;
-		padding: 0 2%;
 	}
 }
 
