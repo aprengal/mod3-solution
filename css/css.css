@@ -55,6 +55,10 @@ p {
 	position: relative
 }
 
+.grup {
+	max-width: 90%;
+}
+
 section {
 	background: #ccc;
 	padding: 3em 1em 1em;
