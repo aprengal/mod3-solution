@@ -229,21 +229,40 @@ footer a:hover, footer a:focus {
 	font-weight: 700;
 }
 
-/*Text for screen readers. I think we don't see this in the course, however, it's relevant nowadays*/
-.lector-p {
-	height: 1px;
-	margin: -1px;
-	width: 1px;
-	overflow: hidden;
-	position: absolute;
-	color: #fff;
-	background: #000;
-	clip: rect(1px, 1px, 1px, 1px);
-	-webkit-clip-path: inset(50%);
-	clip-path: inset(50%);
-	word-wrap: normal;
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
 }
 
+#phone {
+  margin-top: 5px;
+}
+#phone a { /* Phone number */
+  text-align: right;
+  padding-bottom: 0;
+}
+#phone div { /* We Deliver */
+  color: #557c3e;
+  text-align: right;
+  padding-right: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
 
 
 @media (min-width:768px) {
