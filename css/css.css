@@ -23,6 +23,11 @@ main {
 	background: #61122f;
 }
 
+iframe {
+	width: 100%;
+	height: 100%;
+}
+
 *,
 ::after,
 ::before {
