@@ -515,3 +515,8 @@ footer a:hover, footer a:focus {
 	background: #eee;
 	border-color: #000
 }
+
+#nav-list a:hover, #nav-list a:focus {
+	background: #951C49;
+	color: #fff;
+}
