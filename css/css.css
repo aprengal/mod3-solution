@@ -135,6 +135,11 @@ section h3 {
   vertical-align: middle;
 }
 
+footer {
+	color: #fff;
+	background: #00093d;
+}
+
 
 @media (min-width:768px) {
 	.sec-1,
