@@ -172,6 +172,10 @@ footer {
 	margin: 0.3rem 0;
 }
 
+.copy {
+	padding: 3.5rem 0;
+}
+
 /*Text for screen readers. I think we don't see this in the course, however, it's relevant nowadays*/
 .lector-p {
 	height: 1px;
@@ -228,6 +232,10 @@ footer {
 	
 	.seccion {
 	padding: 5rem 0;
+	}
+	
+	.copy {
+	padding: 4.3rem 0;
 	}
 }
 
