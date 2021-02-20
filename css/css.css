@@ -203,6 +203,10 @@ footer a:hover, footer a:focus {
 	border-bottom: 0.1rem solid yellow;
 }
 
+.m-sec c {
+	vertical-align: top;
+}
+
 .m-sec .h4 {
 	margin: 0;
 }
