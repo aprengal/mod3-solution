@@ -119,6 +119,10 @@ section p {
 	background: #ff0
 }
 
+.text-center {
+	text-indent: 0;
+}
+
 /** HEADER **/
 #header-nav {
   background-color: #f6b319;
