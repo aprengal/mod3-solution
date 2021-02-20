@@ -36,6 +36,10 @@ iframe {
 	word-wrap: break-word;
 }
 
+a {
+	transition: color 0.375s, background 0.375s, opacity 0.375s, outline 0s;
+}
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: "Expletus Sans", -apple-system, BlinkMacSystemFont, arial, sans-serif;
 	font-weight: 700;
