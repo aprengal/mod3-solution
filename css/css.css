@@ -62,17 +62,18 @@ section {
 	width: 96%
 }
 
-section,
-section h2 {
+section {
 	border: 1px #000 solid
 }
 
 section h2 {
 	position: absolute;
-	top: -1px;
-	right: -1px;
+	/*top: -1px;
+	right: -1px;*/
+	width: 100%;
 	margin: 0;
-	padding: 0 2rem
+	padding: 0 2rem;
+	border-bottom: 1px #000 solid;
 }
 
 .sec-1 h2 {
