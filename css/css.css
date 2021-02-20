@@ -245,7 +245,7 @@ footer a:hover, footer a:focus {
 	.sec-2,
 	.sec-3 {
 		width: 30%;
-		margin: calc(10% / 6)
+		margin: 4% calc(10% / 6);
 	}
 	.sec-3 {
 		display: inline-block
