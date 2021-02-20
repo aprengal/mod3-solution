@@ -334,12 +334,12 @@ footer a:hover, footer a:focus {
 }
 
 #menu-tile {
-  background: url('../images/menu-tile.jpg') no-repeat;
-  background-position: center;
+  background: url('../images/chicken.png') no-repeat;
+  /*background-position: center;*/
 }
 #specials-tile {
-  background: url('../images/specials-tile.jpg') no-repeat;
-  background-position: center;
+  background: url('../images/beef.png') no-repeat;
+  /*background-position: center;*/
 }
 
 #menu-tile span, #specials-tile span, #map-tile span {
