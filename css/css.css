@@ -71,7 +71,7 @@ section {
 	border: 1px #000 solid
 }
 
-section h2 {
+section h3 {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -81,17 +81,17 @@ section h2 {
 	border-bottom: 1px #000 solid;
 }
 
-.sec-1 h2 {
+.sec-1 h3 {
 	color: #000;
 	background: tomato
 }
 
-.sec-2 h2 {
+.sec-2 h3 {
 	color: #fff;
 	background: #663399
 }
 
-.sec-3 h2 {
+.sec-3 h3 {
 	color: #000;
 	background: #ff0
 }
