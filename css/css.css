@@ -152,6 +152,47 @@ footer a:hover, footer a:focus {
 	padding: 0;
 }
 
+/* Social menu -------------------------------- */
+
+.menu-soc {
+	padding: 3.5rem 0;
+	border-bottom: 0.1rem solid yellow;
+}
+
+.menu-soc li {
+	line-height: 0;
+}
+
+.menu-soc svg {
+	margin: auto;
+	height: inherit;
+}
+
+.ic-soc {
+	margin: 0;
+}
+
+.ic-soc a {
+	background: #ffbbdd;
+	border-radius: 100%;
+	color: #000;
+	display: inline-block;
+	height: 4.4rem;
+	width: 4.4rem;
+	opacity: 0.75;
+}
+
+.ic-soc a:focus,
+.ic-soc a:hover {
+	opacity: 1;
+}
+
+.ic-soc li {
+	margin: 1rem;
+	/*list-style: none;*/
+	display: inline-block;
+}
+
 .seccion {
 	padding: 5rem 0;
 }
