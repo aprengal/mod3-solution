@@ -218,14 +218,6 @@ footer {
 
 	.m-sec .c:first-child + .c  {
 		padding-top: 0;
-	}
-	
-	.seccion {
-	padding: 5rem 0;
-	}
-	
-	.copy {
-	padding: 4.3rem 0;
-	}
+	}	
 }
 
