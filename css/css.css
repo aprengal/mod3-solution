@@ -69,13 +69,6 @@ q::before, q::after {
 	margin: 0 auto;
 }
 
-section.rel {
-	background: #ccc;
-	padding: 3em 1em 1em;
-	margin: 4% auto;
-	border: 2px solid #3F0C1F;
-}
-
 section h3 {
 	position: absolute;
 	top: 0;
@@ -88,6 +81,13 @@ section h3 {
 
 section p {
 	color: #000;
+}
+
+.sec-1, .sec-2, .sec-3 {
+	background: #ccc;
+	padding: 3em 1em 1em;
+	margin: 4% auto;
+	border: 2px solid #3F0C1F;
 }
 
 .sec-1 h3 {
