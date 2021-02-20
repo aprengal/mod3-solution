@@ -158,6 +158,11 @@ footer {
 	background: #363636;
 }
 
+footer p {
+    text-indent: 0;
+    margin: 0;
+}
+
 footer a {
 	color: aqua;
 	font-weight: 700;
