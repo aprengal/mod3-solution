@@ -97,7 +97,7 @@ section h2 {
 }
 
 #logo-img {
-	background-image: url("images/restaurant-logo_small.png");
+	background-image: url("../images/restaurant-logo_small.png");
 }
 
 @media (min-width:768px) {
@@ -109,7 +109,7 @@ section h2 {
 	}
 	
 	#logo-img {
-		background-image: url("images/restaurant-logo_medium.png");
+		background-image: url("../images/restaurant-logo_medium.png");
 	}
 }
 
@@ -125,7 +125,7 @@ section h2 {
 	}
 	
 	#logo-img {
-		background-image: url("images/restaurant-logo_large.png");
+		background-image: url("../images/restaurant-logo_large.png");
 	}
 }
 
