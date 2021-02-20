@@ -335,6 +335,7 @@ footer a:hover, footer a:focus {
 .container .jumbotron {
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
+  background-color: rgba(255,255,255,0.15);
   transition: box-shadow 0.25s;
 }
 
