@@ -34,11 +34,11 @@ h6 {
 	line-height: 2
 }
 
-h1 {
+h1, h2 {
 	font-size: 175%
 }
 
-h2 {
+h3 {
 	font-size: 125%
 }
 
