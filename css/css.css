@@ -49,6 +49,7 @@ p {
 
 q {
 	quotes: "«" "»" "“" "”" "'" "'";
+	font-style: italic;
 }
 
 .uwu {
