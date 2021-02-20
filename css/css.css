@@ -276,7 +276,7 @@ footer a:hover, footer a:focus {
   color: #951C49;
   text-align: center;
 }
-#nav-list a:hover {
+#nav-list a:hover, #nav-list a:focus {
   background: #E7E7E7;
 }
 #nav-list a span {
@@ -318,7 +318,8 @@ footer a:hover, footer a:focus {
   border: 2px solid #3F0C1F;
   overflow: hidden;
 }
-#menu-tile:hover, #specials-tile:hover, #map-tile:hover {
+#menu-tile:hover, #specials-tile:hover, #map-tile:hover
+#menu-tile:focus, #specials-tile:focus, #map-tile:focus {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 
