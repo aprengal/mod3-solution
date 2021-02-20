@@ -90,6 +90,10 @@ section h3 {
 	border-bottom: 1px #000 solid;
 }
 
+section p {
+	color: #000;
+}
+
 .sec-1 h3 {
 	color: #000;
 	background: tomato
