@@ -147,6 +147,20 @@ footer {
 	margin: 0 auto;
 }
 
+/*Text for screen readers. I think we don't see this in the course, however, it's relevant nowadays*/
+.lector-p {
+	height: 1px;
+	margin: -1px;
+	width: 1px;
+	overflow: hidden;
+	position: absolute;
+	color: #fff;
+	background: #000;
+	clip: rect(1px, 1px, 1px, 1px);
+	-webkit-clip-path: inset(50%);
+	clip-path: inset(50%);
+	word-wrap: normal;
+}
 
 @media (min-width:768px) {
 	.sec-1,
