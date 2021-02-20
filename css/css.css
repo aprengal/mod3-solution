@@ -97,7 +97,10 @@ section h3 {
 }
 
 #logo-img {
-	background-image: url("../images/restaurant-logo_small.png");
+  background: url('../images/restaurant-logo_large.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
 }
 
 @media (min-width:768px) {
@@ -108,9 +111,6 @@ section h3 {
 		display: inline-block
 	}
 	
-	#logo-img {
-		background-image: url("../images/restaurant-logo_medium.png");
-	}
 }
 
 @media (min-width:992px) {
@@ -122,10 +122,6 @@ section h3 {
 	}
 	.sec-3 {
 		display: inline-block
-	}
-	
-	#logo-img {
-		background-image: url("../images/restaurant-logo_large.png");
 	}
 }
 
