@@ -36,7 +36,7 @@ iframe {
 	word-wrap: break-word;
 }
 
-a {
+button, a {
 	transition: color 0.375s, background 0.375s, opacity 0.375s, outline 0s;
 }
 
