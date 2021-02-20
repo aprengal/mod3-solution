@@ -56,7 +56,7 @@ p {
 }
 
 .grup {
-	max-width: 90%;
+	max-width: calc(100% - (10%/3));
 	margin: 0 auto;
 }
 
