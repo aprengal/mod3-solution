@@ -44,7 +44,8 @@ h2 {
 }
 
 p {
-	text-indent: 2em
+	text-indent: 2em;
+	margin: 1em 0;
 }
 
 .uwu {
