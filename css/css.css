@@ -261,7 +261,7 @@ footer a:hover, footer a:focus {
 	/* Menús footer. The original media query on my website is 1024px */
 	.m-sec .c {
 		width: calc(100% / 3);
-		padding: 0 2%;
+		padding: 0 5%;
 		display: inline-block;
 	}
 }
