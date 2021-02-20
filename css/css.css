@@ -30,16 +30,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	line-height: 2
 }
 
-h1, h2 {
+h1, h2, .h4 {
 	font-size: 200%
 }
 
 h3 {
 	font-size: 150%
-}
-
-.h4 {
-	font-size: 2.4rem;
 }
 
 p {
@@ -198,11 +194,6 @@ footer {
 		width: 46%;
 		margin: 0 2%;
 		display: inline-block
-	}
-	
-
-	.h4 {
-		font-size: 3.2rem;
 	}
 	
 }
