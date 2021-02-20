@@ -5,12 +5,9 @@
 	outline-offset: 2px;
 }
 
-#logo-img:focus {
-	outline-offset: -15px;
-}
-
-.pull-left.visible-md.visible-lg {
+.pull-left.visible-md.visible-lg:focus {
 	outline-color: red;
+	outline-offset: -15px;
 }
 
 ::-moz-focus-inner {
