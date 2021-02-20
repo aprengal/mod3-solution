@@ -7,6 +7,9 @@ html {
 	-ms-hyphens: auto;
 	hyphens: auto;
 	font-size: 100%;
+}
+
+body {
 	line-height: 2
 }
 
@@ -27,7 +30,8 @@ h6 {
 	font-family: "Expletus Sans", -apple-system, BlinkMacSystemFont, arial, sans-serif;
 	font-weight: 700;
 	margin: 3.5rem 0 2rem;
-	hyphens: none
+	hyphens: none;
+	line-height: 2
 }
 
 h1 {
