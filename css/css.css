@@ -511,9 +511,12 @@ footer a:hover, footer a:focus {
 	}
 }
 
-.navbar-default .navbar-collapse {
-	background: #eee;
-	border-color: #000
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-collapse {
+		background: #eee;
+		border-color: #000
+	}
 }
 
 #nav-list a:hover, #nav-list a:focus {
