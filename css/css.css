@@ -151,14 +151,6 @@ footer {
 	border-bottom: 0.1rem solid yellow;
 }
 
-.m-sec .c {
-	padding-top: 3rem;
-}
-
-.m-sec .c:first-child {
-	padding-top: 0;
-}
-
 .m-sec .h4 {
 	margin: 0;
 }
