@@ -52,6 +52,10 @@ q {
 	font-style: italic;
 }
 
+q::before, q::after {
+	font-style: normal;
+}
+
 .uwu {
 	background: #ccc;
 }
