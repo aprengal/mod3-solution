@@ -381,7 +381,7 @@ footer a:hover, footer a:focus {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/jumbotron_1200.png') no-repeat;
+    background-image: url('../images/jumbotron_1200.png');
     height: 675px;
   }
 }
