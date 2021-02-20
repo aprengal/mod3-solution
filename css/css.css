@@ -97,6 +97,13 @@ section h3 {
 	background: #ff0
 }
 
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
 #logo-img {
   /*background: url('../images/restaurant-logo_large.png') no-repeat;*/
   width: 150px;
