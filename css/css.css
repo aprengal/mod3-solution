@@ -74,6 +74,10 @@ q::before, q::after {
 	position: relative
 }
 
+.green {
+	color: green;
+}
+
 .grup {
 	max-width: calc(100% - (10%/3));
 	margin: 0 auto;
