@@ -15,11 +15,6 @@ body {
 	font-size: 100%;
 }
 
-main {
-	display: block;
-	padding: 3.5rem 0;
-}
-
 *,
 ::after,
 ::before {
@@ -138,6 +133,7 @@ section h3 {
 footer {
 	color: #fff;
 	background: #00093d;
+	margin-top: 3.5rem;
 }
 
 footer a {
