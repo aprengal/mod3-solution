@@ -6,7 +6,7 @@
 }
 
 .pull-left.visible-md.visible-lg:focus {
-	outline-color: red;
+	outline-color: red!important;
 }
 
 @media (min-width: 1200px) {
