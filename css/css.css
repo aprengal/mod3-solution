@@ -511,4 +511,7 @@ footer a:hover, footer a:focus {
 	}
 }
 
-
+.navbar-default .navbar-collapse {
+	background: #eee;
+	border-color: #000
+}
