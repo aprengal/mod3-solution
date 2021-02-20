@@ -337,8 +337,14 @@ footer a:hover, footer a:focus {
   background: url('../images/chicken.png') no-repeat;
   /*background-position: center;*/
 }
+
 #specials-tile {
   background: url('../images/beef.png') no-repeat;
+  /*background-position: center;*/
+}
+
+#map-tile {
+  background: url('../images/sushi.png') no-repeat;
   /*background-position: center;*/
 }
 
