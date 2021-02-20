@@ -147,6 +147,27 @@ footer {
 	margin: 0 auto;
 }
 
+.m-sec {
+	border-bottom: 0.1rem solid yellow;
+}
+
+.m-sec .c {
+	padding-top: 3rem;
+}
+
+.m-sec .c:first-child {
+	padding-top: 0;
+}
+
+.m-sec .h4 {
+	margin: 0;
+	white-space: nowrap;
+}
+
+.m-sec ul, .m-sec li {
+	margin: 0.3rem 0;
+}
+
 /*Text for screen readers. I think we don't see this in the course, however, it's relevant nowadays*/
 .lector-p {
 	height: 1px;
@@ -162,12 +183,25 @@ footer {
 	word-wrap: normal;
 }
 
+
+
 @media (min-width:768px) {
 	.sec-1,
 	.sec-2 {
 		width: 46%;
 		margin: 0 2%;
 		display: inline-block
+	}
+	
+	/* Menús pé de páxina ----------------------------- */
+	.m-sec .c {
+		width: 50%;
+		padding: 4rem 2% 0;
+		display: inline-block;
+	}
+
+	.m-sec .c:first-child + .c  {
+		padding-top: 0;
 	}
 	
 }
@@ -181,6 +215,16 @@ footer {
 	}
 	.sec-3 {
 		display: inline-block
+	}
+}
+
+/*This media query is for extra large computer screens.*/
+
+@media ( min-width: 1440px ) {
+	
+	.m-sec .c {
+		width: 25%;
+		padding: 0 2%;
 	}
 }
 
