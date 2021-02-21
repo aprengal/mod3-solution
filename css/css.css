@@ -6,7 +6,7 @@
 }
 
 @media (min-width: 1200px) {
-	.pull-left.visible-md.visible-lg:focus {
+	#logo-img {
 		outline-offset: -15px;
 	}
 }
