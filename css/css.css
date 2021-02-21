@@ -6,7 +6,7 @@
 }
 
 @media (min-width: 768px) {
-	#logo-img:focus/*.pull-left.visible-md.visible-lg:focus*/ {
+	.pull-left.visible-md.visible-lg:focus {
 		outline-offset: -15px;
 	}
 }
