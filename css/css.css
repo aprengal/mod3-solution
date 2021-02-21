@@ -371,12 +371,6 @@ footer a:hover, footer a:focus {
     background: url('../images/jumbotron_768.png') no-repeat;
     height: 432px;
   }
-	/*Boostrap 4.0*/
-  .float-none {
-	float: none;
-	margin: auto;
-  }
-
 }
 
 @media (max-width: 767px) {
