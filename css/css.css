@@ -352,13 +352,6 @@ footer a:hover, footer a:focus {
   }
 }
 
-@media (max-width: 1199px) {
-	
-	#menu-tile, #specials-tile, #map-tile {
-		margin-bottom: 30px;
-	}
-}
-
 @media (min-width: 992px) and (max-width: 1199px) {
   #logo-img {
     background: url('../images/restaurant-logo_medium.png') no-repeat;
@@ -434,6 +427,10 @@ footer a:hover, footer a:focus {
   #nav-list a:hover, #nav-list a:focus {
 	background: #951C49;
 	color: #fff;
+  }
+	
+  #menu-tile, #specials-tile, #map-tile {
+	margin-bottom: 30px;
   }
 }
 
