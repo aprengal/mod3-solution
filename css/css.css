@@ -436,7 +436,7 @@ footer a:hover, footer a:focus {
     font-size: 6vw;
   }
 
-  #menu-tile, #specials-tile {
+  #menu-tile, #specials-tile, #map-tile {
     width: 280px;
     margin: 0 auto 15px;
   }
