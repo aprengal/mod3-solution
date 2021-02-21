@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :focus, a:focus {
-	outline: 0.45rem dashed #fff;
+	outline: 0.45rem dashed #fff!important;
 	outline-offset: 2px;
 }
 
