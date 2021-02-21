@@ -5,10 +5,6 @@
 	outline-offset: 2px;
 }
 
-.pull-left.visible-md.visible-lg:focus {
-	outline-color: red;
-}
-
 @media (min-width: 1200px) {
 	.pull-left.visible-md.visible-lg:focus {
 		outline-offset: -15px;
