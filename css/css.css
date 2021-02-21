@@ -269,7 +269,12 @@ footer a:hover, footer a:focus {
 		height: 2px;
 		margin: 2rem auto;
 		border: 0;
-	}	
+	}
+	
+	.nav-list a {
+		vertical-align: middle;
+	}
+	
 }
 
 .m-sec ul, .m-sec li {
