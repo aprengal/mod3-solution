@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
 :focus, a:focus {
+	/*I used !important because there are other css changing the :focus colour in many a and button elements
+	and I couldn't find it. Avoid using !important in real projects*/
 	outline: 0.25rem dashed #fff!important;
 	outline-offset: 2px;
 }
@@ -22,7 +24,6 @@
 }
 
 html {
-	
 	scroll-behavior: smooth;
 	-webkit-hyphens: auto;
 	-ms-hyphens: auto;
