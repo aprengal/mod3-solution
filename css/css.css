@@ -373,6 +373,13 @@ footer a:hover, footer a:focus {
   }
 }
 
+@media (max-width: 991px) {
+  #menu-tile, #specials-tile, #map-tile {
+    width: 280px;
+    margin: 0 auto 15px;
+  }
+}
+
 @media (max-width: 767px) {
   /* Header */
   .navbar-brand {
@@ -439,11 +446,6 @@ footer a:hover, footer a:focus {
   .navbar-brand h1 { 
     padding-top: 5px;
     font-size: 6vw;
-  }
-
-  #menu-tile, #specials-tile, #map-tile {
-    width: 280px;
-    margin: 0 auto 15px;
   }
 }
 
