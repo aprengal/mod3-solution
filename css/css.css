@@ -47,6 +47,7 @@ main {
 
 svg.glyphicon {
 	width: 30px;
+	fill: currentColor;
 }
 
 *,
@@ -275,7 +276,7 @@ footer a:hover, footer a:focus {
 		border: 0;
 	}
 	
-	.nav-list a {
+	#nav-list a {
 		vertical-align: middle;
 	}
 	
