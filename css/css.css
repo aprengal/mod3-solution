@@ -316,6 +316,7 @@ footer a:hover, footer a:focus {
 #phone a { /* Phone number */
   text-align: right;
   /*padding-bottom: 0;*/
+  line-height: 1;
 }
 #phone div { /* We Deliver */
   color: #557c3e;
