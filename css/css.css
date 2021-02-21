@@ -45,6 +45,10 @@ main {
 	background: #61122f;
 }
 
+svg.glyphicon {
+	width: 30px;
+}
+
 *,
 ::after,
 ::before {
