@@ -293,7 +293,7 @@ footer a:hover, footer a:focus {
 }
 
 #nav-list {
-  margin-top: 10px;
+  margin: 10px 0;
 }
 #nav-list a {
   color: #951C49;
