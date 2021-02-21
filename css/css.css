@@ -5,7 +5,7 @@
 	outline-offset: 2px;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
 	#logo-img {
 		outline-offset: -15px;
 	}
