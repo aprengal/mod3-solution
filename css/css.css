@@ -5,7 +5,13 @@
 	outline-offset: 2px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) and (max-width: 1199px) {
+	.pull-left.visible-md.visible-lg:focus {
+		outline-offset: -5px;
+	}
+}
+
+@media (min-width: 1200px) {
 	.pull-left.visible-md.visible-lg:focus {
 		outline-offset: -15px;
 	}
@@ -370,7 +376,7 @@ footer a:hover, footer a:focus {
     background: url('../images/restaurant-logo_medium.png') no-repeat;
     width: 100px;
     height: 100px;
-    margin: 5px 5px 5px 0;
+    margin: 5px;
   }
   .container .jumbotron {
     background: url('../images/jumbotron_992.png') no-repeat;
